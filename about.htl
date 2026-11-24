@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Men haqimda</title>
+</head>
+<body>
+    <h1>Men haqimda</h1>
+
+    <h2>Salom! Mening ismim Ilyosbek</h2>
+
+    <p>Men web dasturlashni o‘rganmoqdaman.</p>
+
+    <p>Hozirda HTML, CSS va JavaScript
+    tillarini o‘rganyapman.</p>
+
+    <h3>Mening maqsadim</h3>
+    <p>Kelajakda kuchli dasturchi bo‘lish.</p>
+</body>
+</html>
